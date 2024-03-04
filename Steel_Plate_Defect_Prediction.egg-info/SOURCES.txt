@@ -1,0 +1,7 @@
+README.md
+setup.py
+Steel_Plate_Defect_Prediction.egg-info/PKG-INFO
+Steel_Plate_Defect_Prediction.egg-info/SOURCES.txt
+Steel_Plate_Defect_Prediction.egg-info/dependency_links.txt
+Steel_Plate_Defect_Prediction.egg-info/requires.txt
+Steel_Plate_Defect_Prediction.egg-info/top_level.txt
